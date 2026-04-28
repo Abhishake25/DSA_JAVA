@@ -1,4 +1,4 @@
-class TwoSum {
+class MoveZeroes {
     public void moveZeroes(int[] nums) {
         int n = nums.length;
         int j=-1;
